@@ -1,0 +1,54 @@
+/** SukhumvitSet **/
+@font-face {
+	font-family: 'Conv_SukhumvitSet-Bold';
+	src: url('fonts/SukhumvitSet-Bold.eot');
+	src: local('☺'), url('fonts/SukhumvitSet-Bold.woff') format('woff'), url('fonts/SukhumvitSet-Bold.ttf') format('truetype'), url('fonts/SukhumvitSet-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.SukhumvitSetBold {font-family:'Conv_SukhumvitSet-Bold',Sans-Serif;}
+
+@font-face {
+	font-family: 'Conv_SukhumvitSet-Light';
+	src: url('fonts/SukhumvitSet-Light.eot');
+	src: local('☺'), url('fonts/SukhumvitSet-Light.woff') format('woff'), url('fonts/SukhumvitSet-Light.ttf') format('truetype'), url('fonts/SukhumvitSet-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.SukhumvitSetLight {font-family:'Conv_SukhumvitSet-Light',Sans-Serif;}
+
+@font-face {
+	font-family: 'Conv_SukhumvitSet-Medium';
+	src: url('fonts/SukhumvitSet-Medium.eot');
+	src: local('☺'), url('fonts/SukhumvitSet-Medium.woff') format('woff'), url('fonts/SukhumvitSet-Medium.ttf') format('truetype'), url('fonts/SukhumvitSet-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.SukhumvitSetMedium {font-family:'Conv_SukhumvitSet-Medium',Sans-Serif;}
+
+@font-face {
+	font-family: 'Conv_SukhumvitSet-SemiBold';
+	src: url('fonts/SukhumvitSet-SemiBold.eot');
+	src: local('☺'), url('fonts/SukhumvitSet-SemiBold.woff') format('woff'), url('fonts/SukhumvitSet-SemiBold.ttf') format('truetype'), url('fonts/SukhumvitSet-SemiBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.SukhumvitSetSemiBold {font-family:'Conv_SukhumvitSet-SemiBold',Sans-Serif;}
+
+@font-face {
+	font-family: 'Conv_SukhumvitSet-Text';
+	src: url('fonts/SukhumvitSet-Text.eot');
+	src: local('☺'), url('fonts/SukhumvitSet-Text.woff') format('woff'), url('fonts/SukhumvitSet-Text.ttf') format('truetype'), url('fonts/SukhumvitSet-Text.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.SukhumvitSetText {font-family:'Conv_SukhumvitSet-Text',Sans-Serif;}
+
+@font-face {
+	font-family: 'Conv_SukhumvitSet-Thin';
+	src: url('fonts/SukhumvitSet-Thin.eot');
+	src: local('☺'), url('fonts/SukhumvitSet-Thin.woff') format('woff'), url('fonts/SukhumvitSet-Thin.ttf') format('truetype'), url('fonts/SukhumvitSet-Thin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.SukhumvitSetThin {font-family:'Conv_SukhumvitSet-Thin',Sans-Serif;}
